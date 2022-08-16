@@ -1,5 +1,5 @@
 Privacy Policy
---------------
+==============
 
 The privacy of your data - and it is your data, not ours! - is important to us.
 We'll only ever access your account to help you with a problem or squash a
