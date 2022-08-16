@@ -124,8 +124,8 @@ Deleted data
 ------------
 
 When you cancel your account, we'll ensure that nothing is stored on our
-servers past 30 days. Anything you delete on your account while it's active
-will also be purged within 30 days.
+servers past 90 days. Anything you delete on your account while it's active
+will also be purged within 90 days.
 
 Location of Site and Data
 -------------------------
