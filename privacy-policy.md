@@ -109,7 +109,7 @@ you when such requests are made.
 Security & Encryption
 ---------------------
 
-All data is encrypted via
+All data are encrypted via
 [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when
 transmitted from our servers to your browser. The database backups are also
 encrypted. Data isn't encrypted while it's live in our database (since it needs
