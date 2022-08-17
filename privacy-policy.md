@@ -115,10 +115,10 @@ transmitted from our servers to your browser. The database backups are also
 encrypted. Data isn't encrypted while it's live in our database (since it needs
 to be ready to send to you when you need it), but we go to great lengths to
 secure your data at rest. You can read more about that on our [security
-page](sercurity-overview.md).
+page](sercurity.md).
 
 For more information about how we keep your information secure, please review
-our [security overview](security-overview.md).
+our [security overview](security.md).
 
 Deleted data
 ------------
