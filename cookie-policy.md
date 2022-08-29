@@ -87,7 +87,7 @@ Essential Local Storage - Document Viewer
 ### persist:viewer
 
 This value adjusts the operation of the document viewer to allow you to use it
-to generate facts from docuemnt annotations.
+to generate facts from document annotations.
 
 ### toolData-AnnotationCreateDisputeFact
 
@@ -99,4 +99,4 @@ Non-essential Local Storage - Preferences
 
 ### sidekickWidth-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 
-This value stores your preferred width for the sidekick for each dispute.
+This value stores your preferred width for the sidekick for each case.
