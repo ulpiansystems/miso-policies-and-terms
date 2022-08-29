@@ -35,8 +35,8 @@ Subprocessors operting outside the European Union
 *   [Cloudflare](https://cloudflare.com) When you request data from our website
     or application, the data may be transmitted via cloudflare. This is
     restricted to things like the images and code and **not** case data. Any
-    case data stored in our application is served directly from our EU based
-    servers and does not pass through cloudflares servers. Cloudflare helps us
+    case data stored in our application are served directly from our EU based
+    servers and do not pass through cloudflares servers. Cloudflare helps us
     ensure the security and performance of our website and application.
 *   [Chargebee](https://www.chargebee.com) We use this to handle all the data
     to do with your subscription. Your billing address and contact details are
